@@ -29,7 +29,8 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Washington University in St. Louis"
-  uri              : # URL
+  employer         : "Georgetown University"
+  uri              : "speidell.github.io"
   email            : "none@example.org" 
 
   # Academic websites
@@ -42,7 +43,7 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Andrew_Speidell"
   scopus           : # URL
   zotero           : # URL
 
@@ -57,7 +58,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/speidell/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
