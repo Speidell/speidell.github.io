@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a molecular and behavioral neuroscientist who is focused on the complex set of mechanisms which underly neurodegeneration. Currently, my work investigates the molecular pathogenesis of Huntington’s Disease, with a special focus on the changing epigenetic landscape in early states of disease progression. To this end, I utilize cell-free experiments, *in vitro* approaches, and a variety of mouse models to bridge the gap between (epi)genetic triggers and phenotypic outcomes.
+I am a molecular and behavioral neuroscientist who is focused on the complex set of mechanisms which underly neurodegeneration, especially those which affect synaptic transmission. Currently, my work investigates the molecular pathogenesis of Huntington’s Disease, with a focus on the heavily distrupted epigenetic landscape in the early stages of disease progression. To do so, I utilize a variety of computational approaches, cell-free experiments, *in vitro* systems, and an array of mouse models to bridge the gap in understanding between (epi)genetic modifications and phenotypic outcomes.
 
 By combining anatomical neuroscience with high-resolution data analysis, I aim to map the structural and functional changes that occur during disease states. My research interests include:
 
