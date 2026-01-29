@@ -7,10 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is a professional placeholder body of text tailored to your research background in neuroscience. You can copy this directly into your index.html or _pages/about.md file.
-
-Research Overview
-I am a Molecular and Behavioral Neuroscientist focused on the complex mechanisms underlying neurodegeneration. My work primarily investigates the pathological progression of Huntington’s Disease, utilizing sophisticated mouse models to bridge the gap between genetic triggers and phenotypic outcomes.
+I am a Molecular and Behavioral Neuroscientist focused on the complex mechanisms underlying neurodegeneration. My work primarily investigates the pathological progression of Huntington’s Disease, utilizing cell free, *in vitro*, and mouse models to bridge the gap between genetic triggers and phenotypic outcomes.
 
 By combining anatomical neuroscience with high-resolution data analysis, I aim to map the structural and functional changes that occur during disease states. My research interests include:
 
