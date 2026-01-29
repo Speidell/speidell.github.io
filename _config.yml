@@ -28,8 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Molecular and Behavioral Neuroscientist"
   location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis"
-  employer         : "Georgetown University"
+  employer         : "Washington University in St. Louis <br> Georgetown University"
   uri              : "speidell.github.io"
   email            : "none@example.org" 
 
