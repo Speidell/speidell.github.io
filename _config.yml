@@ -28,9 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Molecular and Behavioral Neuroscientist"
   location         : "St. Louis, MO"
-  employer: |
-    Washington University in St. Louis,
-    Georgetown University
+  employer         : "Washington University in St. Louis <br> <i class='fas fa-fw fa-university' aria-hidden='true'></i> Georgetown University"
   uri              : "speidell.github.io"
   email            : "none@example.org" 
 
@@ -140,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @Speidell_PhD
 facebook:
   username               :
   app_id                 :
