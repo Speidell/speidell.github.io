@@ -26,12 +26,20 @@ author:
   avatar           : "profile.png"
   name             : "Andrew Speidell, Ph.D."
   pronouns         : # example: "she/her"  
+<<<<<<< HEAD
   bio              : "Molecular and Behavioral Neuroscientist"
   location         : "St. Louis, MO"
   employer         : "Washington University in St. Louis" <br>
     <i class="fas fa-fw fa-university" aria-hidden="true"></i> Georgetown University
   uri              : "speidell.github.io"
   email            : "131722827+Speidell@users.noreply.github.com" 
+=======
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Washington University in St. Louis"
+  uri              : # URL
+  email            : "none@example.org" 
+>>>>>>> parent of 1ce3c43 (Update _config.yml)
 
   # Academic websites
   academia         : # URL
@@ -42,8 +50,13 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
+<<<<<<< HEAD
   pubmed           : "Andrew Speidell"
   researchgate     : "https://www.researchgate.net/profile/Andrew_Speidell"
+=======
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+>>>>>>> parent of 1ce3c43 (Update _config.yml)
   scopus           : # URL
   zotero           : # URL
 
@@ -58,7 +71,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -67,7 +80,11 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
+<<<<<<< HEAD
   linkedin         : "speidell"
+=======
+  linkedin         : # Username
+>>>>>>> parent of 1ce3c43 (Update _config.yml)
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
