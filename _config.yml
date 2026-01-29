@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Andrew Speidell, Ph.D."
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"
-url                      : https://speidell.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "speidell.github.com"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,43 +24,25 @@ repository               : "speidell.github.com"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Andrew Speidell, Ph.D."
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Molecular and Behavioral Neuroscientist"
-  location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis" <br>
-    <i class="fas fa-fw fa-university" aria-hidden="true"></i> Georgetown University
-  uri              : "speidell.github.io"
-  email            : "131722827+Speidell@users.noreply.github.com" 
-=======
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Washington University in St. Louis"
+  employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
->>>>>>> parent of 1ce3c43 (Update _config.yml)
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "iIK0c78AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-<<<<<<< HEAD
-<<<<<<< HEAD
-  pubmed           : "Andrew Speidell"
-  researchgate     : "https://www.researchgate.net/profile/Andrew_Speidell"
-=======
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
->>>>>>> parent of 1ce3c43 (Update _config.yml)
-=======
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
->>>>>>> parent of 1ce3c43 (Update _config.yml)
   scopus           : # URL
   zotero           : # URL
 
@@ -69,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "speidell"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -84,15 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-<<<<<<< HEAD
-<<<<<<< HEAD
-  linkedin         : "speidell"
-=======
   linkedin         : # Username
->>>>>>> parent of 1ce3c43 (Update _config.yml)
-=======
-  linkedin         : # Username
->>>>>>> parent of 1ce3c43 (Update _config.yml)
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -100,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@Speidell_PhD"
+  twitter          : # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -164,7 +138,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @Speidell_PhD
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
