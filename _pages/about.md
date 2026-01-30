@@ -37,3 +37,19 @@ Some exciting images from my current and previous work:
 
 <br>
 
+<div style="overflow: auto;">
+  <img src="{{ site.baseurl }}/images/BF.png" 
+       alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
+       style="float: left; width: 450px; margin-right: 20px; border-radius: 8px;">
+  <p style="font-size: 16px; text-align: justify;">
+    <strong>Figure 3: Widefield microscopy and stereological analysis of choline acetyltransferase-expressing cells of the basal forebrain indicates that this special neuronal population is sharply reducted in aged gp120mice, but their loss is with reduction of p75NTR expression. </strong> Sections from aged mice. Bregma +1.0 (A/P). See: Speidell et al 2024, <i> J. Neurochemistry</i>.
+  </p>
+</div>
+
+<div style="overflow: auto;">
+  <img src="{{ site.baseurl }}/images/cFos.png" 
+       alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
+       style="float: right; width: 450px; margin-left: 20px; border-radius: 8px;">
+  <p style="font-size: 16px; text-align: justify;">
+    <strong>Figure 4: Confocal photomicrograph of the expresison and distribution of <i> Gpr75 </i> mRNA using RNAScope (TM) in young wild-type mice. </strong> Green puncta indicate <i> Gpr75 </i> mRNA, while red puncta indicate expresison of the pan-neuronal marker mRNA <i> Rbfox3 </i>. Expression of this transcript appears to be highly enriched in "feeding drive" centers of the hypothalamus.
+  </p>
