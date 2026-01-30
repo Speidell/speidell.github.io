@@ -14,6 +14,6 @@ I am a molecular and behavioral neuroscientist who is focused on the complex set
        alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
        style="float: left; width: 300px; margin-right: 20px; border-radius: 8px;">
   <p>
-    <strong>Figure 1:</strong> Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease.
+    <strong>Figure 1: Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease. </strong>
   </p>
 </div>
