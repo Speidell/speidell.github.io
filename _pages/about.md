@@ -1,6 +1,8 @@
 ---
 permalink: /
+<p style="text-align: center;">
 title: "Andrew Speidell, Ph.D."
+<p>
 author_profile: true
 redirect_from: 
   - /about/
