@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p style="font-size: 18px; text-align: justify;">
-I am a molecular and behavioral neuroscientist who is focused on the complex set of mechanisms which underly neurodegeneration, especially those which affect synaptic transmission. Currently, my work investigates the molecular pathogenesis of Huntington’s Disease, with a focus on the heavily disrupted epigenetic landscape in the early stages of disease progression. To do so, I utilize a variety of computational approaches, cell-free experiments, *in vitro* systems, and an array of mouse models to bridge the gap in understanding between (epi)genetic modifications and phenotypic outcomes.
+I am a molecular and behavioral neuroscientist who is focused on the complex set of mechanisms which underly neurodegeneration, especially those which affect synaptic transmission. Currently, my work investigates the molecular pathogenesis of Huntington’s Disease, with a focus on the heavily disrupted epigenetic landscape in the early stages of disease progression. To do so, I utilize a variety of computational approaches, cell-free experiments, <i>in vitro</i> systems, and an array of mouse models to bridge the gap in understanding between (epi)genetic modifications and phenotypic outcomes.
 </p>
 
 <p style="font-size: 18px; text-align: center;">
@@ -30,7 +30,7 @@ Some exciting images from my current and previous work:
        alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
        style="float: right; width: 450px; margin-left: 20px; border-radius: 8px;">
   <p style="font-size: 16px; text-align: justify;">
-    <strong>Figure 2: Reduced expression of the pan-proneurotrophin receptor p75NTR restores expression of the immediate early gene cFos in the hippocampus of gp120 transgenic mice during recall of an extinguished fear conditioning task. </strong> Expression of cFos is reduced in the hippocampus of gp120tg mice during recall of an extinguished association vs WT, but restored in mice lacking one p75NTR allele in the same experimental epoch. See: Speidell et al 2024, <i> J. Neurochemistry</i>.
+    <strong>Figure 2: Reduced expression of the pan-proneurotrophin receptor p75NTR restores expression of the immediate early gene cFos in the hippocampus of gp120 transgenic mice during recall of an extinguished fear conditioning task. </strong> Expression of cFos is reduced in the hippocampus of gp120tg mice during recall of an extinguished association vs WT, but restored in mice lacking one <i>P75NTR</i> allele in the same epoch of the behavioral paradigm. See: Speidell et al 2024, <i> J. Neurochemistry</i>.
   </p>
 </div>
 <br>
@@ -40,7 +40,7 @@ Some exciting images from my current and previous work:
        alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
        style="float: left; width: 450px; margin-right: 20px; border-radius: 8px;">
   <p style="font-size: 16px; text-align: justify;">
-    <strong>Figure 3: Widefield microscopy and stereological analysis of choline acetyltransferase-expressing cells of the basal forebrain indicates that this special neuronal population is sharply reducted in aged gp120mice, but their loss is with reduction of p75NTR expression. </strong> Sections from aged mice. Bregma +1.0 (A/P). See: Speidell et al 2024, <i> J. Neurochemistry</i>.
+    <strong>Figure 3: Widefield microscopy and stereological analysis of choline acetyltransferase-expressing cells of the basal forebrain indicates that this special neuronal population is sharply reduced in aged gp120tg mice, but their loss is sharply attenuated with reduction of p75NTR expression. </strong> Sections from aged mice. Bregma +1.0mm (A/P). See: Speidell et al 2024, <i> J. Neurochemistry</i>.
   </p>
 </div>
 <br>
@@ -50,5 +50,5 @@ Some exciting images from my current and previous work:
        alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
        style="float: right; width: 450px; margin-left: 20px; border-radius: 8px;">
   <p style="font-size: 16px; text-align: justify;">
-    <strong>Figure 4: Confocal photomicrograph of the expresison and distribution of <i> Gpr75 </i> mRNA using RNAScope (TM) in young wild-type mice. </strong> Green puncta indicate <i> Gpr75 </i> mRNA, while red puncta indicate expresison of the pan-neuronal marker mRNA <i> Rbfox3 </i>. Expression of this transcript appears to be highly enriched in "feeding drive" centers of the hypothalamus.
+    <strong>Figure 4: Confocal photomicrograph of the expresison and distribution of <i> Gpr75 </i> mRNA using RNAScope (TM) in young wild-type mice. </strong> Green puncta indicate <i> Gpr75 </i> mRNA, while red puncta indicate expression of the pan-neuronal marker mRNA <i>Rbfox3</i>. Expression of this transcript appears to be highly enriched in "feeding drive" centers of the hypothalamus.
   </p>
