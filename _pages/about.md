@@ -14,6 +14,6 @@ I am a molecular and behavioral neuroscientist who is focused on the complex set
        alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
        style="float: left; width: 300px; margin-right: 20px; border-radius: 8px;">
   <p>
-    <strong>Figure 1: Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease. </strong>
+    <strong>Figure 1: Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease. </strong> Each dot represents the proximity ligation assay product of two chromatin-remodeling enzymes within 50nm of one another, with a robust increase of this interaction in the indicated Huntington's disease models (red title) vs control (white title). <strong> (Top) </strong> STHdh striatal precursor-derived and differentiated cells. <strong> (Middle) </strong> Primary neurons transfected with 25- or 72- glutamine repeat HTTex1 lentiviral constructs. <strong> (Bottom) </strong> Neurons in the dorsolateral striatum of wildtype (WT) or R6/2 (HD model) mice.
   </p>
 </div>
