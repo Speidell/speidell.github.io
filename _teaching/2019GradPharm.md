@@ -1,5 +1,5 @@
 ---
-title: "Graduate Pharmacology"
+title: "PHAR 504: Graduate Pharmacology"
 collection: teaching
 permalink: /teaching/2019GradPharm
 date: 2019-09-01
