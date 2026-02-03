@@ -15,6 +15,10 @@ author_profile: true
 
 {% include base_path %}
 
+<ul style="line-height: 1.2;">
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <li>
+    <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>, {{ post.venue }} ({{ post.date | date: "%Y" }})
+  </li>
 {% endfor %}
+</ul>
