@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Graduate Pharmacology"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2019-spring-teaching-1
 venue: "Georgetown University, Department of Pharmacology and Physiology"
-date: 2014-01-01
-location: "City, Country"
+date: 2019 Fall
+location: "Washington, DC"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
