@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 <div class="wordwrap">
-  You may request a full and updated PDF copy of my curriculum vitae by 
-  <a href="mailto:aps114+speidell@georgetown.edu">emailing me here</a>.
+You may request a full and updated PDF copy of my curriculum vitae by 
+<a href="mailto:aps114+speidell@georgetown.edu">emailing me here</a>.
   
-  Last updated: 31 December 2025
 </div>
-=======
-{% include base_path %}
+
+Last updated: 31 December 2025
