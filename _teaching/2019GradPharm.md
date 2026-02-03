@@ -5,10 +5,10 @@ permalink: /teaching/2019GradPharm
 date: 2019-09-01
 location: "Washington, DC"
 ---
-<p style="line-height: 0;"><strong>PHAR 504: Graduate Pharmacology</strong></p>
-<p style="line-height: 0;"><em>Department of Pharmacology and Physiology</em></p>
-<p style="line-height: 0;">Georgetown University</p>
-<p style="line-height: 0;">Fall 2019</p>
+<p style="line-height: 1;"><strong>PHAR 504: Graduate Pharmacology</strong></p>
+<p style="line-height: 1;"><em>Department of Pharmacology and Physiology</em></p>
+<p style="line-height: 1;">Georgetown University</p>
+<p style="line-height: 1;">Fall 2019</p>
 <p style="line-height: 1;">Role: Guest Lecturer</p>
 <p style="line-height: 1;">Gave multiple lectures per semester to a graduate-level audience on the molecular bases of neurodegenerative diseases, with special attention to HIV-associated neurocognitive disorders and Huntington&rsquo;s disease.</p>
 
