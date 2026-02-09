@@ -50,5 +50,5 @@ Some exciting images from my current and previous work:
        alt="Visualizing intranuclear interactions of a neuronal DNA methyltransferase and a histone lysine methyltransferase in models of Huntington's disease." 
        style="float: right; width: 450px; margin-left: 20px; border-radius: 8px;">
   <p style="font-size: 16px; text-align: justify;">
-    <strong>Figure 4: Confocal photomicrograph of the expresison and distribution of <i> Gpr75 </i> mRNA using RNAScope(TM) Fluorescent <strong><em>in situ</em></strong>hybridization in young wild-type mice. </strong> Green puncta indicate <i> Gpr75 </i> mRNA, while red puncta indicate expression of the pan-neuronal marker mRNA <i>Rbfox3</i>. Expression of this transcript appears to be highly enriched in "feeding drive" centers of the hypothalamus.
+    <strong>Figure 4: Confocal photomicrograph of the expresison and distribution of <i> Gpr75 </i> mRNA using RNAScope(TM) Fluorescent <strong><em>in situ</em></strong> hybridization in young wild-type mice. </strong> Green puncta indicate <i> Gpr75 </i> mRNA, while red puncta indicate expression of the pan-neuronal marker mRNA <i>Rbfox3</i>. Expression of this transcript appears to be highly enriched in "feeding drive" centers of the hypothalamus.
   </p>
