@@ -6,7 +6,6 @@ redirect_from:
   - "/OtherItems/"
   - "/BeyondtheLab/"
   - "/nmp.html"
----
 
 gallery:
   - url: "/astrophotography/"
@@ -17,3 +16,5 @@ gallery:
     image_path: "/images/ethereum-node-thumb.jpg"
     alt: "Ethereum Staking"
     title: "Web3 Initiatives"
+	
+---
