@@ -7,15 +7,14 @@ redirect_from:
   - "/BeyondtheLab/"
   - "/nmp.html"
 gallery:
-	- url: "/astrophotography/"
+  - url: "/astrophotography/"
     image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
     alt: "Total Solar Eclipse Composite"
     title: "Astrophotography"
-	- url: "/web3-projects/"
+  - url: "/web3-projects/"
     image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
     alt: "Web3 and Staking"
     title: "Web3 & Blockchain"
-    caption: "Home-run Ethereum nodes and smart contract explorations."
 ---
 
 {% include gallery id="gallery" layout="thirds" caption="This is a half gallery layout example." %}
