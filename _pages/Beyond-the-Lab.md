@@ -8,7 +8,7 @@ redirect_from:
   - "/nmp.html"
 gallery:
   - url: "/astrophotography/"
-    image_path: "/images/EclipseCompositeWebP.webp"
+    image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
     alt: "Total Solar Eclipse Composite"
     title: "Astrophotography"
 ---
