@@ -13,4 +13,4 @@ gallery:
     title: "Astrophotography "
 ---
 
-{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+{% include gallery id="gallery" layout="thirds" caption="This is a half gallery layout example." %}
