@@ -11,7 +11,7 @@ gallery:
     image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
     alt: "Total Solar Eclipse Composite"
     title: "Astrophotography "
-	caption: "A collection of lunar, deep-sky, and solar system captures."
+	excerpt: "A collection of lunar, deep-sky, and solar system captures."
 ---
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
