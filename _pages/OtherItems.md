@@ -1,5 +1,5 @@
 ---
-permalink: /OtherItems/
+permalink: /BeyondtheLab/
 title: "Beyond the Lab"
 author_profile: true
 redirect_from: 
