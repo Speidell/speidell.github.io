@@ -12,3 +12,5 @@ gallery:
     alt: "Total Solar Eclipse Composite"
     title: "Astrophotography"
 ---
+
+{% include gallery %}
