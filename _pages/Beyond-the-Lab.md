@@ -8,10 +8,12 @@ redirect_from:
   - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
-
-Heading 1
-======
-
-Heading 2
-======
+gallery:
+  - url: "/astrophotography/"
+    image_path: "/images/EclipseCompositeWebP.webp"
+    alt: "Total Solar Eclipse Composite"
+    title: "Astrophotography"
+  - url: "/web3-projects/"
+    image_path: "/images/ethereum-node-thumb.jpg"
+    alt: "Ethereum Staking"
+    title: "Web3 Initiatives"
