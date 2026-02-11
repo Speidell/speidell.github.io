@@ -1,11 +1,11 @@
 ---
-permalink: /BeyondtheLab/
+permalink: /Beyond-the-Lab/
 title: "Beyond the Lab"
 author_profile: true
 redirect_from: 
   - "/OtherItems/"
   - "/BeyondtheLab/"
-  - "/Beyond the Lab/"
+  - "/Beyond-the-Lab/"
   - "/nmp.html"
 ---
 
