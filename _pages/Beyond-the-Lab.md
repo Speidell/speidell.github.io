@@ -14,4 +14,4 @@ gallery:
 	caption: "A collection of lunar, deep-sky, and solar system captures."
 ---
 
-{% include gallery layout="three-quarters" %}
+{% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
