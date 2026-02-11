@@ -1,9 +1,11 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /OtherItems/
+title: "Beyond the Lab"
 author_profile: true
 redirect_from: 
-  - "/nmp/"
+  - "/OtherItems/"
+  - "/BeyondtheLab/"
+  - "/Beyond the Lab/"
   - "/nmp.html"
 ---
 
