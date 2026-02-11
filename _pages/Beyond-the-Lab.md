@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - "/OtherItems/"
   - "/BeyondtheLab/"
-  - "/Beyond-the-Lab/"
   - "/nmp.html"
 ---
 
