@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="wordwrap">
 You may request a full and updated PDF copy of my curriculum vitae by 
-<a href="speidell@andrewspeidell.com">emailing me here</a>.
+<a href="mailto:speidell@andrewspeidell.com">emailing me here</a>.
   
 </div>
 
