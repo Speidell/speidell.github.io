@@ -6,15 +6,14 @@ redirect_from:
   - "/OtherItems/"
   - "/BeyondtheLab/"
   - "/nmp.html"
-gallery:
-  - url: "/astrophotography/"
-    image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
-    alt: "Total Solar Eclipse Composite"
+feature_row:
+  - image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
+    alt: "Astrophotography"
     title: "Astrophotography"
-  - url: "/web3-projects/"
-    image_path: "https://andrewspeidell.com/images/astrophotography/EclipseCompositeWebP.webp"
-    alt: "Web3 and Staking"
-    title: "Web3 & Blockchain"
+    excerpt: "Lunar, solar system, and deep-sky captures."
+    url: "/astrophotography/"
+    btn_label: "View Gallery"
+    btn_class: "primary"
 ---
 
-{% include gallery id="gallery" layout="thirds" caption="This is a half gallery layout example." %}
+{% include feature_row %}
