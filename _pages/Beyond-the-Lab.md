@@ -18,7 +18,7 @@ feature_row:
     alt: "Web3 and EthereumVM"
     title: "Web3 and EthereumVM"
     excerpt: "Ongoing Web3 Projects."
-    url: "/astrophotography/"
+    url: "/Web3/"
     btn_label: "Web3 Projects"
     btn_class: "primary"
 ---
