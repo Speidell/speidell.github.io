@@ -5,6 +5,7 @@ permalink: /teaching/2019GradPharm
 date: 2019-09-01
 location: "Washington, DC"
 ---
+<br>
 <p style="line-height: 0;"><strong>PHAR 504: Graduate Pharmacology</strong></p>
 <p style="line-height: 0;"><em>Department of Pharmacology and Physiology</em></p>
 <p style="line-height: 0;">Georgetown University</p>
