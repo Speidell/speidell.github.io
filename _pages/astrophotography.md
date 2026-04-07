@@ -33,7 +33,9 @@ author_profile: true
 <div class="astro-grid">
 
   <div class="astro-item">
-    <img src="{{ site.baseurl }}/images/astrophotography/EclipseCompositeWebP.webp" alt="April 2024 Total Solar Eclipse composite">
+    <a href="{{ site.baseurl }}/images/astrophotography/EclipseCompositeWebP.webp" target="_blank">
+      <img src="{{ site.baseurl }}/images/astrophotography/EclipseCompositeWebP.webp" alt="April 2024 Total Solar Eclipse composite">
+    </a>
     <p class="astro-caption">April 2024 Total Solar Eclipse composite. Taken by A. Speidell on 8 Apr 2024 at Cape Girardeau, MO.</p>
   </div>
 
