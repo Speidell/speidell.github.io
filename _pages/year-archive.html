@@ -7,16 +7,14 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-<!-- Basic usage -->
-**
- * RSS-based Substack embed (client-side)
- * - Finds elements matching `.substack-feed-embed` or `#substack-feed-embed`
- * - Pulls configuration from data-* attributes with sensible defaults
- * - Fetches the Substack RSS (via rss2json) and renders simple cards
- *
- * Optional global defaults:
- *   window.SubstackFeedWidget = { substackUrl: '', posts: 3, showImages: true, showDates: true };
- */
+<div id="substack-feed-embed"
+     data-substack-url="https://speidell.substack.com"
+     data-posts="10"
+     data-show-images="true"
+     data-show-dates="true">
+</div>
+
+<script>
 (function () {
   const globalDefaults = (window.SubstackFeedWidget || {});
   const defaults = {
@@ -32,7 +30,6 @@ redirect_from:
 
   const fmtDate = (iso) => {
     try {
-      // Use reader’s locale; tweak if you want a fixed one
       return new Intl.DateTimeFormat(undefined, { year: 'numeric', month: 'short', day: '2-digit' }).format(new Date(iso));
     } catch {
       return '';
@@ -91,7 +88,6 @@ redirect_from:
 
     const pDesc = document.createElement('p');
     pDesc.className = 'substack-desc';
-    // Use description (plaintext-ish from rss2json) and truncate
     pDesc.textContent = truncate(post.description, 160);
     body.appendChild(pDesc);
 
@@ -122,7 +118,6 @@ redirect_from:
     const feedBase = normalizeUrl(cfg.substackUrl);
     const rssUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(`${feedBase}/feed`)}`;
 
-    // Minimal skeleton while loading (optional)
     container.innerHTML = '<div class="substack-skeleton">Loading…</div>';
 
     try {
@@ -140,7 +135,6 @@ redirect_from:
         return;
       }
 
-      // Clear and render
       container.innerHTML = '';
       posts.forEach((post) => {
         container.appendChild(buildCard(post, cfg));
@@ -151,3 +145,4 @@ redirect_from:
     }
   });
 })();
+</script>
