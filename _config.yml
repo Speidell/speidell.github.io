@@ -27,9 +27,10 @@ author:
   name             : "Andrew Speidell, Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Molecular and Behavioral Neuroscientist"
-  location         : "St. Louis, MO"
-  employer         : "Washington University in St. Louis"
-  employer2        : "Georgetown University"
+  location         : "Texas, United States"
+  employer         : "Texas A&M University"
+  employer2        : "Washington University in St. Louis"
+  employer3        : "Georgetown University"
   uri              : # URL
   email            : "speidell@andrewspeidell.com" 
 
